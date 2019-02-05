@@ -1,4 +1,4 @@
-# BOTNET [BITVIR Project]
+# BiTViR (Botnet)
 
 ### Progetto di Sicurezza Informatica e Internet
 
